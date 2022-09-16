@@ -1,0 +1,27 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx71eab7a7818921bb",
+# 公众号appSecret
+"app_secret": "dda690b1345baf6e901ad9776378f3c7",
+# 模板消息id
+"template_id": "k6iRb_BBtPor_0rfUOd7QxkpjKpjMyLWj45zKlfngis",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oFyhR6Qj9gvzEYjGs2572gWBeboE"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "7fda35c3028c475db74aec859ed66d59",
+# 天行数据apikey
+"tian_api": "a53bfcf2ab63bcf48faff404b59df5ac",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "贵州",
+# 生日
+"birthday1": {"name": "郑荣海", "birthday": "2001-09-23"},
+# 在一起的日子，格式同上
+"love_date": "2017-09-11",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "命运掌握在自己手上",
+# 金句英文
+"note_en": "take control of your own desting"
+}
